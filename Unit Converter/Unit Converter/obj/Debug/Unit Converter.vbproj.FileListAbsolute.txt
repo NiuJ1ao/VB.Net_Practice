@@ -1,0 +1,15 @@
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\bin\Debug\Unit Converter.exe.config
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\bin\Debug\Unit Converter.exe
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\bin\Debug\Unit Converter.pdb
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\bin\Debug\Unit Converter.xml
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\obj\Debug\Unit Converter.vbprojResolveAssemblyReference.cache
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\obj\Debug\Unit_Converter.Form1.resources
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\obj\Debug\Unit_Converter.Resources.resources
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\obj\Debug\Unit Converter.vbproj.GenerateResource.Cache
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\obj\Debug\Unit Converter.exe
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\obj\Debug\Unit Converter.xml
+d:\my documents\visual studio 2015\Projects\Unit Converter\Unit Converter\obj\Debug\Unit Converter.pdb
+D:\VS Projects\Unit Converter\Unit Converter\bin\Debug\Unit Converter.exe.config
+D:\VS Projects\Unit Converter\Unit Converter\obj\Debug\Unit Converter.exe
+D:\VS Projects\Unit Converter\Unit Converter\obj\Debug\Unit Converter.xml
+D:\VS Projects\Unit Converter\Unit Converter\obj\Debug\Unit Converter.pdb
